@@ -1,0 +1,345 @@
+@media (max-width:1072px){
+
+    header{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+header a{
+    font-size: 25px;
+    padding: 5px;
+}
+    .footbox h1{
+        font-size: 35px;
+    }
+
+    .footbox p{
+        font-size: 20px;
+    }
+
+    .footbox h2{
+        font-size: 25px;
+    }
+
+    .creative h1{
+        font-size: 50px;
+    }
+
+    header img{
+        width: 266px;
+    height: 45px;
+    }
+}
+@media (max-width:992px) and (min-width:764px){
+.cdwrap img{
+    width: 330px;
+
+}
+    .card{
+        height: 315px;
+    }
+
+.card p{
+    font-size: 15px;
+    margin-top: 45px;
+}
+
+.card span{
+    font-size: 10px;
+}
+}
+
+@media (max-width:890px){
+    .creative h1{
+        font-size: 35px;
+    }
+
+    .creative p{
+        font-size: 12px;
+    }
+
+    .cdwrap img {
+        width: 315px;
+        
+    }
+}
+@media (max-width:764px){
+
+    section{
+        text-align: center;
+        padding: 150px 40px 80px 40px;
+    }
+
+    header a{
+       font-size: 20px;
+    }
+
+    header ul{
+        margin-top: 10px;
+    }
+
+    section,article h1{
+        font-size: 70px;
+       
+    }
+
+    article h4{
+        font-size: 30px;
+       
+    }
+    section h2{
+        font-size: 30px;
+       
+    }
+    section p{
+        font-size: 15px;
+       
+    }
+
+    section a {
+      font-size: 20px;
+        
+    }
+    main h1{
+        font-size: 70px;
+    }
+    main h4{
+        font-size: 20px;
+    }
+
+    .need h5,h6{
+        font-size: 20px;
+    }
+    .need img{
+        width: 30px;
+        bottom: -25px;
+    }
+  
+    .cardwrap {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .cdwrap {
+        flex-direction: column;
+    }
+    .cdwrap img{
+        width: auto;
+        height: 260px;
+    }
+
+    .creative {
+        border-radius: 0 0 30px 30px;
+        padding: 20px 30px;
+    }
+
+    .creative2{
+        border-radius: 0 0 30px 30px;
+    }
+
+    .talk{
+        padding: 50px;
+    }
+
+    .form{
+        padding: 50px;
+    }
+    .talk h1{
+        font-size: 50px;
+    }
+    .talk p{
+        font-size: 24px;
+        
+    }
+    .signup label{
+        font-size: 24px;
+    }
+    .signup input[type="submit"]{
+        font-size: 26px;
+        height: 50px;
+        box-shadow: none;  
+    }
+
+    .signup input{
+        height: 35px;
+}
+
+}
+
+@media (max-width:540px){
+   
+ 
+    main h1{
+        font-size: 40px;
+    }
+
+    .piccard h2{
+        font-size: 30px;
+    }
+    .piccard p{
+        font-size: 20px;
+    }
+    section{
+        text-align: center;
+        padding: 100px 40px 50px 40px;
+          
+    }
+
+    .piccardwrap{
+        padding-top: 10px;
+    }
+    header a {
+        font-size: 15px;
+        padding: 5px;
+    }
+
+    header img{
+        width: 220px;
+        height: 35px;
+    }
+
+    section h1{
+        font-size: 50px;
+    }
+    section h2{
+        font-size: 25px;
+    }
+    header{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    header ul{
+        padding: 0;
+    }
+
+    .need h5,h6{
+        font-size: 15px;
+    }
+    .need img{
+        width: 20px;
+        bottom: -16px;
+    }
+
+    section,article h1{
+        font-size: 50px;
+       
+    }
+
+    article h4{
+        font-size: 20px;
+       
+    }
+
+    .minicard h3{
+        font-size: 30px;
+    }
+
+    .minicard p{
+        font-size: 18px;
+    }
+   
+    .talk{
+        padding: 30px;
+    }
+
+    .form{
+        padding: 30px;
+    }
+    .talk h1{
+        font-size: 40px;
+    }
+    .talk p{
+        font-size: 20px;
+        
+    }
+    .signup label{
+        font-size: 20px;
+    }
+
+    .signup input[type="submit"]{
+        font-size: 20px;
+        height: 40px;
+        box-shadow: none;  
+    }
+}
+@media (max-width:500px){
+    .footbox{
+        border-bottom: 1px solid;
+        width: 100%;
+    }
+
+    .pic{
+        width: auto;
+     }
+}
+@media (max-width:470px){
+    .piccard h2{
+        font-size: 25px;
+    }
+    .piccard p{
+        font-size: 18px;
+    }
+    .creative h1{
+        font-size: 30px;
+    }
+
+    .banner{
+        padding: 30px;
+    }
+}
+@media (max-width:390px){
+    .piccard h2{
+        font-size: 22px;
+    }
+    .piccard p{
+        font-size: 15px;
+    }
+    
+    .creative h1{
+        font-size: 24px;
+    }
+    .creative p{
+        font-size: 10;
+    }
+    .creative ul {
+        font-size: 10px;
+    }
+    header a {
+        font-size: 12px;
+    }
+    header img {
+        width: 200px;
+        height: 36px;
+    }
+    
+    section h1{
+        font-size: 35px;
+    }
+
+    section h2{
+        font-size: 20px;
+    }
+
+
+    .cardwrap{
+        padding: 30px;
+    }
+    .card p {
+        margin-top: 35px;
+        font-size: 20px;
+    }
+    .card span{
+        font-size: 14px;
+    }
+
+    .minicard {
+        height: 200px;
+    }
+    .minicard h3{
+        font-size: 20px;
+    }
+
+    .minicard p{
+        font-size: 10px;
+    }
+}
